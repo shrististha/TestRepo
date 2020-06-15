@@ -1,2 +1,3 @@
 # TestRepo
-TestRepo for carrying out practice
+TestRepo for carrying out DevOps training practice for Github branching session
+
